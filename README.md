@@ -451,14 +451,6 @@ The system also provides quantitative evaluation through accuracy, precision, re
 
 ---
 
-## 👨‍💻 Author
-
-**Alan Roy**
-
-Machine Learning / Cybersecurity Academic Project
-
----
-
 ## 📄 License
 
 This project is intended primarily for educational and academic purposes.
